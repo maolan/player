@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Maolan Player
+Name[fr]=Lecteur Maolan
+Name[sr]=Маолан плејер
+Name[sr@latin]=Maolan plejer
+Comment=Audio player built on the Maolan engine
+Comment[fr]=Lecteur audio construit sur le moteur Maolan
+Comment[sr]=Аудио плејер заснован на Маолан мотору
+Comment[sr@latin]=Audio plejer zasnovan na Maolan motoru
+GenericName=Audio Player
+GenericName[fr]=Lecteur audio
+GenericName[sr]=Аудио плејер
+GenericName[sr@latin]=Audio plejer
+Exec=/usr/bin/maolan-player %f
+Icon=/usr/share/icons/hicolor/scalable/apps/maolan-player-icon.svg
+Terminal=false
+Categories=AudioVideo;Audio;Player;Music;
+Keywords=audio;player;music;playlist;
+StartupNotify=true
